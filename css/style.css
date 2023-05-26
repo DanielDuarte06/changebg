@@ -1,4 +1,4 @@
-  body{
+  .body_red{
     margin: 0;
     padding: 0;
     height: 100vh;
@@ -6,6 +6,26 @@
     justify-content: center;
     align-items: center;
     background-color: red;
+  }
+
+  .body_blue{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+  }
+
+  .body_black{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
   }
   
   .container {
